@@ -1,2 +1,2 @@
 太菜 简单的利用udp协议写了个聊天室
-利用datagramsocket实现
+利用datagramsocket实现 日后再做优化
